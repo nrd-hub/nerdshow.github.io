@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x06589404e76a702b4736a46c81dA67A73891583d",
+  "SCAN_LINK": "https://polygonscan.com/address/0x06589404e76a702b4736a46c81dA67A73891583d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "LaxLlamas",
+  "SYMBOL": "LL",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/laxllamas-1",
+  "SHOW_BACKGROUND": true
+}
