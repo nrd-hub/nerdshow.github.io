@@ -10,7 +10,7 @@
   "SYMBOL": "LL",
   "MAX_SUPPLY": 1000,
   "WEI_COST": 5000000000000000000,
-  "DISPLAY_COST": 10,
+  "DISPLAY_COST": 5,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/laxllamas-1",
